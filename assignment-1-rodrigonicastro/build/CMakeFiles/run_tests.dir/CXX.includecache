@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/CUBoulder/CSCI2270/assignment-1-rodrigonicastro/code/fundamentals.cpp
+fundamentals.hpp
+/mnt/c/CUBoulder/CSCI2270/assignment-1-rodrigonicastro/code/fundamentals.hpp
+
+/mnt/c/CUBoulder/CSCI2270/assignment-1-rodrigonicastro/code/fundamentals.hpp
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+
