@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/CUBoulder/CSCI2270/assignment-3-rodrigonicastro/app_1/main_1.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+string
+-
+../code_1/browserHistory.hpp
+/mnt/c/CUBoulder/CSCI2270/assignment-3-rodrigonicastro/code_1/browserHistory.hpp
+
+/mnt/c/CUBoulder/CSCI2270/assignment-3-rodrigonicastro/code_1/browserHistory.hpp
+iostream
+-
+

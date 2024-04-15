@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/CUBoulder/CSCI2270/assignment-2-rodrigonicastro/code/array_double.cpp
+array_double.hpp
+/mnt/c/CUBoulder/CSCI2270/assignment-2-rodrigonicastro/code/array_double.hpp
+sstream
+-
+
+/mnt/c/CUBoulder/CSCI2270/assignment-2-rodrigonicastro/code/array_double.hpp
+string
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+
